@@ -1,5 +1,4 @@
 # Unique-MEGAETH-Contracts
-# lets-more-scroll-contracts
 
 Deploy a simple contract on MEGAETH using Remix  
 
